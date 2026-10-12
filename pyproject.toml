@@ -1,6 +1,6 @@
 [project]
 name = "four-color-theorem-graph-coloring"
-version = "0.1.0"
+version = "0.1.1"
 description = "Colors a planar graph with at most four colors using the linear-time algorithm of Chiba and Nishizeki."
 requires-python = ">=3.10"
 dependencies = []
